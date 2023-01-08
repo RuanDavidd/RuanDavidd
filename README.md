@@ -2,11 +2,10 @@
 **Sobre mim**
 - 🌱 Atualmente estudando HTML, CSS e JS
 - 🥳 Tenho 18 anos
-- 📚 Gosto de aprender sobre tudo
 ##
 <div>
- <a href="https://github.com/RuanDavidd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RuanDavidd&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Anurag's github stats" /></a>
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent&hide_border=true" /></a>
+ <a width="48%" href="https://github.com/RuanDavidd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RuanDavidd&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Anurag's github stats" /></a>
+ <a width="48%" href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent&hide_border=true" /></a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ruan-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
