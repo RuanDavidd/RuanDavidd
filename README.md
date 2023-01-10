@@ -1,4 +1,3 @@
-<h1 align="center">Olá, eu sou o Ruan David!</h1>
 
 ##
 
