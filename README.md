@@ -1,10 +1,12 @@
+<p align="center"><a href="https://ruandavidd.github.io"><img width="80%" alt="Olá, Eu sou o Ruan. Eu estudo front-end" src="gh-readme-header.png" /></a></p>
+<h2> Sobre mim </h1>
+<p><ul>
+<li>📚 No momento estou estudando HTML5, CCS3 e JS</li>
+<li>🎂 Tenho 18 anos</li>
+</ul></p>
 
-##
-
-<a href="https://github.com/RuanDavidd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RuanDavidd&show_icons=true&include_all_commits=true&theme=transparent&hide_border=false" alt="RuanD github stats"></a>
-
-<a href="https://github.com/RuanDavidd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanDavidd&layout=compact&theme=transparent&hide_border=false"></a>
-</div>
+| <a href="https://github.com/ruandavidd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ruandavidd&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Ruan'S github stats" /></a> | <a href="https://github.com/ruandavidd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruandavidd&layout=compact&theme=transparent&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ##
 
