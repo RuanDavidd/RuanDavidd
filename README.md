@@ -1,20 +1,16 @@
-## Olá! Eu sou o Ruan David
-**Sobre mim**
-- 🌱 Atualmente estudando HTML, CSS e JS
-- 🥳 Tenho 18 anos
+<h1 align="center">Olá, eu sou o Ruan David!</h1>
+
 ##
 
-<div align="center">
-  <a href="https://github.com/RuanDavidd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuanDavidd&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanDavidd&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/RuanDavidd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RuanDavidd&show_icons=true&include_all_commits=true&theme=transparent&hide_border=false" alt="RuanD github stats" /></a>
+
+<a href="https://github.com/RuanDavidd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanDavidd&layout=compact&theme=transparent&hide_border=false" /></a> |
 </div>
 
 ##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ruan-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ruan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ruan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ruan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
