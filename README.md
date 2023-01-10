@@ -1,4 +1,4 @@
-<p align="center"><a href="https://ruandavidd.github.io"><img width="80%" alt="Olá, Eu sou o Ruan. Eu estudo front-end" src="gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://ruandavidd.github.io"><img width="80%" alt="Olá, Eu sou o Ruan. Eu estudo front-end" src="gh-readme-header2.png" /></a></p>
 <h2> Sobre mim </h1>
 <p><ul>
 <li>📚 No momento estou estudando HTML5, CCS3 e JS</li>
