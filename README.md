@@ -1,7 +1,7 @@
 <p align="center"><a href="https://ruandavidd.github.io"><img width="80%" alt="Olá, Eu sou o Ruan. Eu estudo front-end" src="gh-readme-header2.png" /></a></p>
 <h2> Sobre mim </h1>
 <p><ul>
-<li>📚 No momento estou estudando HTML5, CCS3 e JS</li>
+<li>📚 Cursando Engenharia de Software</li>
 <li>🎂 Tenho 19 anos</li>
 </ul></p>
 
@@ -13,7 +13,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Ruan-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ruan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ruan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  img align="center" alt="Ruan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 ##
