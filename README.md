@@ -2,7 +2,7 @@
 <h2> Sobre mim </h1>
 <p><ul>
 <li>📚 Cursando Engenharia de Software</li>
-<li>🎂 Tenho 19 anos</li>
+<li>🎂 Tenho 20 anos</li>
 </ul></p>
 
 | <a href="https://github.com/ruandavidd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ruandavidd&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Ruan'S github stats" /></a> | <a href="https://github.com/ruandavidd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruandavidd&layout=compact&theme=transparent&hide_border=true" /></a> |
